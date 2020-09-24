@@ -1,0 +1,5 @@
+parallelStatic, chunkSize = 1: 500x1000 on 1000x300; time 17765 ms
+parallelDynamic, chunkSize = 1: 500x1000 on 1000x300; time 17735 ms
+parallelGuided, chunkSize = 1: 500x1000 on 1000x300; time 17453 ms
+oneThread: 500x1000 on 1000x300, time 25484 ms
+oneThread: 500x1000 on 1000x300, time 26437 ms
